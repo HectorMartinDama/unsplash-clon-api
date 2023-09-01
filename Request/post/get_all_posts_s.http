@@ -1,0 +1,2 @@
+// Filter the post with the title of the post
+GET http://localhost:4000/api/post/allPosts?s=mujer

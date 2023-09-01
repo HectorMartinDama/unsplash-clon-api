@@ -1,0 +1,10 @@
+POST http://localhost:4000/api/category/createCategory
+content-type: application/json
+
+{
+    "name" : "Animals",
+    "description" : "Vida salvaje exótica, gatitos domésticos y todo lo demás. Descubre la belleza del reino animal a través de tu pantalla."
+}
+
+
+

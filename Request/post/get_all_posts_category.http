@@ -1,0 +1,4 @@
+
+// Params limit, page and filter
+
+GET http://localhost:4000/api/post/allPosts?category=experimental
